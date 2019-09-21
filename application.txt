@@ -5,6 +5,7 @@ code
 debug
 run
 
-
+compile 
+test
 
 thank you
