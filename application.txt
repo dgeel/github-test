@@ -5,9 +5,13 @@ code
 debug
 run
 
-
+compile 
+test
 
 thank you
+
+
+doen with my change
 
 
 Final copy
